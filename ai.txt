@@ -1,0 +1,28 @@
+======================================= 0
+This is the error message
+This will be the recieved message 
+This will be the response
+This will be the recieved message 
+This will be the response
+and so on...
+--> the first line of this file is the error message
+--> after that, it goes on line above
+======================================= 1
+this is the chat "dataset"
+put some messages in here!
+======================================= 2 
+also, to send two responses insert a ^
+just like this:
+======================================= 3
+hello!
+hey^how are you
+======================================= 4
+also, REMOVE all of this afterwards, and
+no, you don't need the seperations (====)
+======================================= 5
+---> EXAMPLE <---
+:x: Error!
+Hello
+Hey, there!^:wave:
+What is your name?
+CordAI
